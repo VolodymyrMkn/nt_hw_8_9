@@ -1,0 +1,113 @@
+/*.title {*/
+/*    color: yellow;*/
+/*    font-size: large;*/
+/*}*/
+
+/*body {*/
+/*    height: 100px;*/
+/*    position: relative;*/
+/*    margin: 0;*/
+/*}*/
+
+/*.container {*/
+/*    width: 100%;*/
+/*    max-width: 1200px;*/
+/*    margin: 40px auto 0;*/
+/*    padding: 40px 20px;*/
+/*}*/
+
+/*#modal {*/
+/*    display: none;*/
+/*    position: absolute;*/
+/*    height: 100vh;*/
+/*    width: 100vw;*/
+/*    background-color: white;*/
+/*}*/
+
+/*#modal__window {*/
+
+/*    width: 500px;*/
+
+/*    background-color: orange;*/
+
+/*    margin: 50% auto;*/
+
+/*    border: 5px solid black;*/
+
+/*    display: flex;*/
+
+/*    flex-direction: column;*/
+
+/*    align-items: center;*/
+
+/*    padding: 50px;*/
+
+/*}*/
+
+/*p {*/
+
+/*    font-weight: bold;*/
+
+/*    font-size: 30px;*/
+
+/*    font-family: sans-serif;*/
+
+/*}*/
+
+/*#yes {*/
+
+/*    background-color: green;*/
+
+/*    color: white;*/
+
+/*    padding: 15px 10px;*/
+
+/*    border: none*/
+
+/*}*/
+
+
+/*#no {*/
+
+/*    background-color: red;*/
+
+/*    color: white;*/
+
+/*    padding: 15px 10px;*/
+
+/*    border: none*/
+
+/*}*/
+
+/*.circle {*/
+/*    position: absolute;*/
+/*    left: 500px;*/
+/*    top: 500px;*/
+/*    background-color: blue;*/
+/*    height: 100px;*/
+/*    width: 100px;*/
+/*    border-radius: 50%;*/
+/*}*/
+
+
+/*.newTitle {*/
+/*    color: fuchsia;*/
+/*}*/
+
+/*.title:hover {*/
+/*    color: blue;*/
+/*}*/
+
+/*.text {*/
+/*    display: none;*/
+/*    color: brown;*/
+/*}*/
+
+/*.textActive {*/
+/*    display: block;*/
+/*    color: brown;*/
+/*}*/
+
+/*.active {*/
+/*    color: aqua;*/
+/*}*/
